@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AchyutManvar
 - 👀 I’m interested in coding, gaming and sports.
-- 🌱 I’m currently learning Computer Engineering at VVP Engineering College, Rajkot (Gujarat, India).
-- 💞️ I’m looking to collaborate on coding projects preferrably on Java.
+- 🌱 I’m a Computer Scienece undergrad from VVP Engineering College.
+- 💞️ I’m looking to collaborate on coding projects preferrably on .Net and ReactJS.
 - 📫 You can reach me at achyutmanvar01@gmail.com
 
 <!---
